@@ -1,0 +1,39 @@
+body{
+  background-color: pink;
+    }
+    h1{
+      margin: 0;
+    }
+  h2 {
+    margin: 0;
+    color: green;
+  }
+p{
+  line-height: 2;
+}
+  span{
+    margin-left: 10px;
+    font-size: 50%;
+    color: black;
+  }
+  .outer{
+    border-radius: 20px;
+    margin: 0 30% 0 30%;
+  }
+  .main{
+    margin: 0 30% 0 30%;
+    padding: 0 30px;
+    position: absolute;
+    left: 300px;
+    height: 400px;
+    width: 220px;
+    background-color: white;
+  }
+.perfum{
+  float: left;
+  height: 400px;
+  width: 300px;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution  { color: hsl(228, 45%, 44%); }
